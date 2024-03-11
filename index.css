@@ -37,7 +37,7 @@
   align-items: center;
 }
 .logo {
-  background-image: url("/Untitled-removebg-preview.png");
+  background-image: url("./Untitled-removebg-preview.png");
   width: 15%;
   height: 80px;
   margin-left: 90px;
@@ -267,7 +267,7 @@
   font-weight: 700;
 }
 .container2 {
-  background-image: url("/technology-stack.png");
+  background-image: url("./technology-stack.png");
   width: 50%;
   height: 75vh;
   background-size: contain;
@@ -296,7 +296,7 @@
   color: rgb(255, 255, 255);
 }
 .container3 {
-  background-image: url("/banner.644656a08618bd9829bc-removebg-preview.png");
+  background-image: url("./banner.644656a08618bd9829bc-removebg-preview.png");
   width: 50%;
   height: 75vh;
   background-size: contain;
